@@ -311,3 +311,28 @@ This port preserves the original Flipper Zero architecture as closely as possibl
 - **Applications** compile with minimal changes (`#include` path adjustments, no-op stubs for missing hardware like 1-Wire)
 - **`malloc` is redefined to `calloc`** — STM32 heap starts zeroed, ESP32 does not
 - **Crypto** is stubbed (no Flipper-Enclave key) — affects encrypted SubGHz keystores; everything else uses real mbedtls
+
+  # Hardware Picture
+![img](ESP32front.heic)
+![img](ESP32Back.heic)
+![img](CC1101front.heic)
+![img](CC1101back.heic)
+![img](PN532front.heic)
+![img](PN532back.heic)
+![img](nrf24front.heic)
+![img](nrf24back.heic)
+![img](ScreenFront.heic)
+![img](Screenback.heic)
+![img](microsdfront.heic)
+![img](microsdback.heic)
+![img](tp4056front.heic)
+![img](tp4056back.heic)
+
+
+
+
+
+
+
+
+  
