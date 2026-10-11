@@ -245,6 +245,9 @@ A complete starter kit is in [sdcard.zip](https://github.com/Sor3nt/Flipper-Zero
 # Waveshare ESP32-C6
 ./buildAndFlash_Waveshare_c6_1.47.sh
 ./buildAndFlash_Waveshare_c6_1.9.sh
+
+#DIY ESP32-S3
+./build_diy.sh
 ```
 
 ### Build & Flash (Windows)
