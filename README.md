@@ -313,20 +313,20 @@ This port preserves the original Flipper Zero architecture as closely as possibl
 - **Crypto** is stubbed (no Flipper-Enclave key) — affects encrypted SubGHz keystores; everything else uses real mbedtls
 
   # Hardware Picture
-![img](ESP32front.heic)
-![img](ESP32Back.heic)
-![img](CC1101front.heic)
-![img](CC1101back.heic)
-![img](PN532front.heic)
-![img](PN532back.heic)
-![img](nrf24front.heic)
-![img](nrf24back.heic)
-![img](ScreenFront.heic)
-![img](Screenback.heic)
-![img](microsdfront.heic)
-![img](microsdback.heic)
-![img](tp4056front.heic)
-![img](tp4056back.heic)
+![img](ESP32front.HEIC)
+![img](ESP32Back.HEIC)
+![img](CC1101front.HEIC)
+![img](CC1101back.HEIC)
+![img](PN532front.HEIC)
+![img](PN532back.HEIC)
+![img](nrf24front.HEIC)
+![img](nrf24back.HEIC)
+![img](ScreenFront.HEIC)
+![img](Screenback.HEIC)
+![img](microsdfront.HEIC)
+![img](microsdback.HEIC)
+![img](tp4056front.HEIC)
+![img](tp4056back.HEIC)
 
 
 
